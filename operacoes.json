@@ -4,8 +4,8 @@
     {"pergunta": "9 - 4", "resposta": 5},
     {"pergunta": "2 + 7", "resposta": 9},
     {"pergunta": "10 - 3", "resposta": 7},
-    {"pergunta": "6 + 2", "resposta": 8},
-    {"pergunta": "8 - 1", "resposta": 7},
+    {"pergunta": "6 + 5", "resposta": 11},
+    {"pergunta": "8 - 8", "resposta": 0},
     {"pergunta": "4 + 4", "resposta": 8},
     {"pergunta": "1 + 9", "resposta": 10},
     {"pergunta": "7 - 5", "resposta": 2}
@@ -16,20 +16,20 @@
     {"pergunta": "5 × 5", "resposta": 25},
     {"pergunta": "2 × 8", "resposta": 16},
     {"pergunta": "9 × 3", "resposta": 27},
-    {"pergunta": "6 × 4", "resposta": 24},
+    {"pergunta": "6 × 3", "resposta": 18},
     {"pergunta": "7 × 2", "resposta": 14},
     {"pergunta": "8 × 5", "resposta": 40},
     {"pergunta": "10 × 3", "resposta": 30}
   ],
   "divisao": [
     {"pergunta": "20 ÷ 4", "resposta": 5},
-    {"pergunta": "30 ÷ 5", "resposta": 6},
-    {"pergunta": "45 ÷ 9", "resposta": 5},
+    {"pergunta": "15 ÷ 5", "resposta": 3},
+    {"pergunta": "45 ÷ 5", "resposta": 9},
     {"pergunta": "18 ÷ 3", "resposta": 6},
-    {"pergunta": "35 ÷ 7", "resposta": 5},
-    {"pergunta": "42 ÷ 6", "resposta": 7},
-    {"pergunta": "24 ÷ 8", "resposta": 3},
-    {"pergunta": "50 ÷ 10", "resposta": 5},
-    {"pergunta": "16 ÷ 2", "resposta": 8}
+    {"pergunta": "22 ÷ 2", "resposta": 11},
+    {"pergunta": "6 ÷ 6", "resposta": 1},
+    {"pergunta": "24 ÷ 3", "resposta": 8},
+    {"pergunta": "100 ÷ 4", "resposta": 25},
+    {"pergunta": "14 ÷ 7", "resposta": 2}
   ]
 }
